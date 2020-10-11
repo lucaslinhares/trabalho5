@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048836468498",
+    "firebase_url": "https://trabalho5-flutter.firebaseio.com",
+    "project_id": "trabalho5-flutter",
+    "storage_bucket": "trabalho5-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048836468498:android:81126edbe2cd37ca3dcdcb",
+        "android_client_info": {
+          "package_name": "com.example.trabalho5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048836468498-0a21j3epcbg94r32nkkkp8rledsecq9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQjBypJOoJYPEJWIP9aIIuA8M7Ok1y2SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048836468498-0a21j3epcbg94r32nkkkp8rledsecq9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
